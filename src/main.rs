@@ -10,3 +10,5 @@ async fn main() ->Result<()>{
 
 
 }
+
+https://blog.logrocket.com/making-http-requests-rust-reqwest/
